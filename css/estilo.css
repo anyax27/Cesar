@@ -1,0 +1,19 @@
+body {
+    background-image: url("http://hdblackwallpaper.com/wallpaper/2015/08/color-black-wallpaper-21-widescreen-wallpaper.jpg");
+    background-size: cover;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+h3, p, input {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  color: white;
+}
+  
+input {
+  font-family: "Digital", sans-serif;
+  font-size: 1.5em;
+  background-color: black;
+  padding: 10px;
+}
